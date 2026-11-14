@@ -1,0 +1,23 @@
+#api call for about
+###
+GET  http://127.0.0.1:8000/about/
+Accept: application/json
+
+
+#api call for courses
+###
+GET  http://127.0.0.1:8000/course/
+Accept: application/json
+
+
+
+#api call for trainers
+###
+GET  http://127.0.0.1:8000/trainer/
+Accept: application/json
+
+
+#api call for branches
+###
+GET  http://127.0.0.1:8000/branch/
+Accept: application/json
